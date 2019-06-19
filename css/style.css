@@ -1,0 +1,26 @@
+body{
+    height: 3000px;
+}
+hr{
+    width: 5%;
+    background-color: lightseagreen;
+    height: 2px;
+}
+section{
+    padding: 80px 0;
+}
+section .row{
+    padding-top: 15px;
+}
+#services i{
+    color:mediumseagreen;
+    font-size: 50px;
+    padding: 50px 0;
+}
+#potfolio{
+    background-color: lightgray;
+}
+.space{
+    height: 75px;
+}
+
